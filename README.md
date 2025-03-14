@@ -33,9 +33,12 @@ Passionate about **data analysis, visualization, and business intelligence**, I 
 ---
 
 ## **🛠 Tech Stack**  
+
+---
+
 ## 🚀 Data Visualization  
 
-### Tools & Technologies  
+### **Tools & Technologies**  
 
 <p align="center">
   <a href="https://www.tableau.com/" target="_blank">
@@ -61,21 +64,72 @@ Passionate about **data analysis, visualization, and business intelligence**, I 
   </a>
 </p>
 
-### **💾 Databases & Querying**  
-- SQL | MySQL | PostgreSQL  
+---
 
-### **🤖 Machine Learning & AI**  
-- scikit-learn | TensorFlow  
-- Supervised & Unsupervised Learning  
+## 💾 Databases & Querying  
 
-### **📈 Statistical Analysis & Data Science**  
-- Regression | Hypothesis Testing | Probability  
-- Data Cleaning | Feature Engineering | Predictive Modeling  
-
-### **📊 Business Intelligence & Analytics**  
-- KPI Dashboards | Performance Monitoring | Data-Driven Insights  
+<p align="center">
+  <a href="https://www.mysql.com/" target="_blank">
+    <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+  </a>
+  <a href="https://www.postgresql.org/" target="_blank">
+    <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+  </a>
+  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank">
+    <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL Server"/>
+  </a>
+</p>
 
 ---
+
+## 🤖 Machine Learning & AI  
+
+<p align="center">
+  <a href="https://scikit-learn.org/" target="_blank">
+    <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit-learn"/>
+  </a>
+  <a href="https://www.tensorflow.org/" target="_blank">
+    <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
+  </a>
+  <a href="https://pytorch.org/" target="_blank">
+    <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/>
+  </a>
+</p>
+
+---
+
+## 📈 Statistical Analysis & Data Science  
+
+<p align="center">
+  <a href="https://pandas.pydata.org/" target="_blank">
+    <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
+  </a>
+  <a href="https://numpy.org/" target="_blank">
+    <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
+  </a>
+  <a href="https://scipy.org/" target="_blank">
+    <img src="https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white" alt="SciPy"/>
+  </a>
+</p>
+
+---
+
+## 📊 Business Intelligence & Analytics  
+
+<p align="center">
+  <a href="https://looker.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Looker-4285F4?style=for-the-badge&logo=looker&logoColor=white" alt="Looker"/>
+  </a>
+  <a href="https://www.sisense.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Sisense-FFC000?style=for-the-badge&logo=sisense&logoColor=black" alt="Sisense"/>
+  </a>
+  <a href="https://www.qlik.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Qlik-008E94?style=for-the-badge&logo=qlik&logoColor=white" alt="Qlik"/>
+  </a>
+</p>
+
+---
+
 
 ## **🚀 Current Work & Contributions**  
 
