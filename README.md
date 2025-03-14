@@ -21,6 +21,30 @@
 Passionate about **data analysis, visualization, and business intelligence**, I specialize in transforming raw data into **meaningful insights**. With expertise in **SQL, Python, R, Tableau, Power BI, and Grafana**, I thrive on creating **impactful dashboards, predictive models, and data-driven strategies** to support business growth.  
 
 ---
+Here’s how you can display your **LinkedIn, GitHub, Email, and Fiverr** as buttons with logos in your GitHub README:  
+
+---
+
+### **🔗 Connect with Me**  
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/rameen-shahid-666190218" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/rameenshahid" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="mailto:rameenshahid60@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://www.fiverr.com/@rameenshahid221" target="_blank">
+    <img src="https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white" alt="Fiverr"/>
+  </a>
+</p>  
+
+---
+
+This will make your contact links look more **professional and visually appealing**. 🚀 Let me know if you need further modifications! 😊
 
 ## **🌟 What I Do**  
 
@@ -154,7 +178,6 @@ Passionate about **data analysis, visualization, and business intelligence**, I 
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rameenshahid&layout=compact&theme=radical)  
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rameenshahid&theme=radical)
 
 
 ---
