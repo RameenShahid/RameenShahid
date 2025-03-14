@@ -2,7 +2,7 @@
 
 # <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+%F0%9F%91%8B;I+am+Rameen!" />
 
-### A passionate Data Scientist from [Your Country] :earth_americas:
+### A passionate Data Scientist from Pakistan :earth_americas:
 
 <br>
 
