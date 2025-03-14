@@ -15,7 +15,7 @@
 
 </div>
 
-# **👋 Hi, I'm Rameen Shahid!**  
+# **👋  I'm Rameen Shahid!**  
 ### **Data Analyst | Business Intelligence | Machine Learning Enthusiast**  
 
 Passionate about **data analysis, visualization, and business intelligence**, I specialize in transforming raw data into **meaningful insights**. With expertise in **SQL, Python, R, Tableau, Power BI, and Grafana**, I thrive on creating **impactful dashboards, predictive models, and data-driven strategies** to support business growth.  
