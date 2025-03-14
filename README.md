@@ -21,10 +21,11 @@
 Passionate about **data analysis, visualization, and business intelligence**, I specialize in transforming raw data into **meaningful insights**. With expertise in **SQL, Python, R, Tableau, Power BI, and Grafana**, I thrive on creating **impactful dashboards, predictive models, and data-driven strategies** to support business growth.  
 
 ---
-  <p align="center">
-  <img src="https://raw.githubusercontent.com/rameenshahid/rameenshahid/main/world-map.png" alt="My Work Worldwide" width="500px">
-</p>
+### 🚀 Featured Projects  
 
+- 📊 **[Apple Stock Price Prediction]([https://github.com/rameenshahid/sales-dashboard](https://github.com/RameenShahid/Apple-Stock-Forecast-XGBoost-DeepLearning-FNN-RNN-LSTM-.git))**
+- 🔍 **[Online-Retail-Dataset-UCI-Machine-Learning]([https://github.com/rameenshahid/customer-insights](https://github.com/RameenShahid/Online-Retail-Dataset-UCI-Machine-Learning-Repository--big-data-prediction-smart-retail-analytics.git))**
+- 🌍 **[Customer Attrition Prediction]([https://github.com/rameenshahid/geo-data-analysis](https://github.com/RameenShahid/Credit-Card-Customer-Retention-and-Churn-Cohort-Analysis-.git))**
 
 ---
 
