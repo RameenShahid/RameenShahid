@@ -182,14 +182,12 @@ This will make your contact links look more **professional and visually appealin
 
 ---
 
-## **📫 Let's Connect!**  
-
-💼 **LinkedIn**: [www.linkedin.com/in/rameen-shahid-666190218](#)  
-💻 **GitHub**: [github.com/rameenshahid](#)  
-📧 **Email**: [rameenshahid60@gmail.com](#)  
-📊 **Fiverr**: [fiverr.com/@rameenshahid221](#)  
-
-Let's innovate with data! 🚀  
+### 🏆 Career Highlights  
+✅ **Power BI & Tableau Expert** (20+ dashboards created)  
+✅ **Top Freelancer on Fiverr** (50+ projects completed)  
+✅ **GitHub Streak: 100+ Days of Code**  
+✅ **Contributed to 5+ Open-Source Projects**  
+✅ **Data Science & Machine Learning Enthusiast**  
 
 ---
 
