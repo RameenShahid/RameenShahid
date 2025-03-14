@@ -21,7 +21,10 @@
 Passionate about **data analysis, visualization, and business intelligence**, I specialize in transforming raw data into **meaningful insights**. With expertise in **SQL, Python, R, Tableau, Power BI, and Grafana**, I thrive on creating **impactful dashboards, predictive models, and data-driven strategies** to support business growth.  
 
 ---
-Here’s how you can display your **LinkedIn, GitHub, Email, and Fiverr** as buttons with logos in your GitHub README:  
+  <p align="center">
+  <img src="https://raw.githubusercontent.com/rameenshahid/rameenshahid/main/world-map.png" alt="My Work Worldwide" width="500px">
+</p>
+
 
 ---
 
