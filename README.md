@@ -154,7 +154,8 @@ Passionate about **data analysis, visualization, and business intelligence**, I 
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rameenshahid&layout=compact&theme=radical)  
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=rameenshahid&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rameenshahid&theme=radical)
+
 
 ---
 
