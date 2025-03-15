@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://github.com/RameenShahid/RameenShahid/blob/b23e26776cc954dd2f38c063ea32c89b6e4deced/Screenshot%20(445).png" alt="Rameen Shahid Banner" width="100%">
+</p>
+
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=yourusername.yourusername" />
 
 # <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+%F0%9F%91%8B;I+am+Rameen!" />
