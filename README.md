@@ -45,7 +45,7 @@ Passionate about **data analysis, visualization, and business intelligence**, I 
   <a href="mailto:rameenshahid60@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  <a href="https://www.fiverr.com/@rameenshahid221" target="_blank">
+  <a href="[https://www.fiverr.com/@rameenshahid221](https://www.fiverr.com/s/WEBPB5x)" target="_blank">
     <img src="https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white" alt="Fiverr"/>
   </a>
 </p>  
